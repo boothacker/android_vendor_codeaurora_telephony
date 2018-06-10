@@ -30,6 +30,7 @@
 
 package org.codeaurora.internal;
 
+import org.codeaurora.internal.IDepersoResCallback$Stub;
 import org.codeaurora.internal.IDepersoResCallback;
 import org.codeaurora.internal.IDsda;
 
